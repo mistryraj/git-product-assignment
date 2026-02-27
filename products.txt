@@ -1,0 +1,3 @@
+Product Name: Laptop
+Price: 48000
+Discount: 5%
