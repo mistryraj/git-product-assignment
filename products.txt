@@ -1,3 +1,4 @@
 Product Name: Laptop
-Price: 48000
+Price: 50000 
 Discount: 5%
+Stock: Available
